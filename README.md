@@ -18,9 +18,9 @@ My&nbsp;name is&nbsp;Hemant. I&rsquo;m a&nbsp;Python developer from India.<br>
 
 [![Python](img/python.svg)](https://www.python.org/)
 [![Django](img/django.svg)](https://www.djangoproject.com/)
-[![React](img/react.svg)](https://react.dev/)
 [![AWS](img/aws.svg)](https://aws.amazon.com/)
 [![Azure](img/azure.svg)](https://azure.microsoft.com/)
+[![OpenAI](img/openai.svg)](https://openai.com/)
 [![Docker](img/docker.svg)](https://www.docker.com/)
 [![PostgreSQL](img/postgresql.svg)](https://www.postgresql.org/)
 [![GitHub](img/github.svg)](https://github.com/)
