@@ -16,14 +16,14 @@ My&nbsp;name is&nbsp;Hemant. I&rsquo;m a&nbsp;Python developer from India.<br>
 
 ## Languages and Tools
 
-[![Python](img/python.svg)](https://www.python.org/)<img src="img/python.svg" alt="Python" width="40" height="40">
-[![Django](img/django.svg)](https://www.djangoproject.com/)<img src="img/django.svg" alt="Django" width="40" height="40">
-[![AWS](img/aws.svg)](https://aws.amazon.com/)<img src="img/aws.svg" alt="AWS" width="40" height="40">
-[![Azure](img/azure.svg)](https://azure.microsoft.com/)<img src="img/azure.svg" alt="Azure" width="40" height="40">
-[![OpenAI](img/openai.svg)](https://openai.com/)<img src="img/openai.svg" alt="OpenAI" width="40" height="40">
-[![Docker](img/docker.svg)](https://www.docker.com/)<img src="img/docker.svg" alt="Docker" width="40" height="40">
-[![PostgreSQL](img/postgresql.svg)](https://www.postgresql.org/)<img src="img/postgresql.svg" alt="PostgreSQL" width="40" height="40">
-[![GitHub](img/github.svg)](https://github.com/)<img src="img/github.svg" alt="GitHub" width="40" height="40">
+<a href="https://www.python.org/"><img src="img/python.svg" alt="Python" width="40" height="40"></a>
+<a href="https://www.djangoproject.com/"><img src="img/django.svg" alt="Django" width="40" height="40"></a>
+<a href="https://aws.amazon.com/"><img src="img/aws.svg" alt="AWS" width="40" height="40"></a>
+<a href="https://azure.microsoft.com/"><img src="img/azure.svg" alt="Azure" width="40" height="40"></a>
+<a href="https://openai.com/"><img src="img/openai.svg" alt="OpenAI" width="40" height="40"></a>
+<a href="https://www.docker.com/"><img src="img/docker.svg" alt="Docker" width="40" height="40"></a>
+<a href="https://www.postgresql.org/"><img src="img/postgresql.svg" alt="PostgreSQL" width="40" height="40"></a>
+<a href="https://github.com/"><img src="img/github.svg" alt="GitHub" width="40" height="40"></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=justhemantpatil&color=blue)
 
