@@ -1,4 +1,31 @@
-## Hi there 👋
+<div align="center">
+
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My&nbsp;name is&nbsp;Hemant. I&rsquo;m a&nbsp;Python developer from India.<br>
+
+</div>
+
+###### Glad to see you here :heart:
+
+🏢 **Associate Software Engineer at <a href="https://www.xoriant.com/">Xoriant Solutions Pvt. Ltd.</a>**  
+🎓 **2022 BE Graduate in Computer Engineering**  
+💻 **Former Software Development Engineer at <a href="https://www.anveshak.com/">Anveshak Technology</a>**  
+🌱 **Passionate about building scalable applications and exploring AI technologies.**  
+🖇 **Let's connect on <a href="https://www.linkedin.com/in/justhemantpatil">LinkedIn</a>**  
+
+## Languages and Tools
+
+[![Python](img/python.svg)](https://www.python.org/)
+[![Django](img/django.svg)](https://www.djangoproject.com/)
+[![React](img/react.svg)](https://react.dev/)
+[![AWS](img/aws.svg)](https://aws.amazon.com/)
+[![Azure](img/azure.svg)](https://azure.microsoft.com/)
+[![Docker](img/docker.svg)](https://www.docker.com/)
+[![PostgreSQL](img/postgresql.svg)](https://www.postgresql.org/)
+[![GitHub](img/github.svg)](https://github.com/)
+
+![Profile views](https://komarev.com/ghpvc/?username=justhemantpatil&color=blue)
 
 ### Professional Summary
 Motivated Python developer with hands-on experience in Django, React, AWS, and Azure. Proficient in cloud services like Lambda, EC2, and S3, and skilled in developing serverless architectures. Experience in containerization using Docker and CI/CD automation with GitHub Actions and Azure DevOps. Knowledgeable in AI tools such as OpenAI APIs and LangChain for GenAI-based applications.
