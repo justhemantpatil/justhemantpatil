@@ -12,7 +12,7 @@ My&nbsp;name is&nbsp;Hemant. I&rsquo;m a&nbsp;Python developer from India.<br>
 🎓 **2022 BE Graduate in Computer Engineering**  
 💻 **Former Software Development Engineer at <a href="https://www.anveshak.com/">Anveshak Technology</a>**  
 🌱 **Passionate about building scalable applications and exploring AI technologies.**  
-🖇 **Let's connect on <a href="https://www.linkedin.com/in/justhemantpatil">LinkedIn</a>**  
+🖇 **Let's connect on <a href="https://www.linkedin.com/in/hemant-patil-7383ba195/">LinkedIn</a>**  
 
 ## Languages and Tools
 
